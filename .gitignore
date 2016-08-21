@@ -3,3 +3,4 @@ bayes-nets/*.o
 bayes-nets/starter/
 bayes-nets/v1/
 bayes-nets/v3/
+.DS_Store
