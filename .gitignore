@@ -1,0 +1,5 @@
+string-matching/*.o
+bayes-nets/*.o
+bayes-nets/starter/
+bayes-nets/v1/
+bayes-nets/v3/
